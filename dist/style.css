@@ -405,7 +405,7 @@ button:hover::before, .button:hover::before {
 
 .hero__image {
   position: relative;
-  background-image: url("https://raw.githubusercontent.com/akashsiddamshetty/easybank/c70717e11fed5cfc50f52e8ebfbca5a930346c3a/images/bg-intro-desktop.svg");
+  background-image: url("https://raw.githubusercontent.com/akashsiddamshetty/easybank/d96eea2d549d0c135d5f8221c6e5c43e5d48c252/images/bg-intro-mobile.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
