@@ -1,5 +1,5 @@
 .feature{
-    background-color: $LightGrayishBlue;
+    background-color: $lightGrayishBlue;
     text-align: center;
 
     @include breakpoint-up(medium){
@@ -42,7 +42,7 @@
     &__title{
         font-weight: 300;
         line-height: 1.15;
-        color: $DarkBlue;
+        color: $darkBlue;
         font-size: 1.25rem;
         margin-bottom: 1rem;
 
